@@ -1,0 +1,9 @@
+.perfil>div>img{
+width: 50vh;
+position: relative;
+align-items: center;
+/* display: grid; */
+/* grid-template-columns: 100px 100px 100px; */
+ /* border: solid red 1px; */
+
+}
